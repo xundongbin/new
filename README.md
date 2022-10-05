@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # new
 the first repository
 这个是测试用的
@@ -7,6 +8,12 @@ the first repository
 
 #### 介绍
 用来测试的，试试好不好用
+=======
+# 第一个
+
+#### 介绍
+第一个测试用的仓库
+>>>>>>> 41d4612810bf27027b8649120650abe9493f98d8
 
 #### 软件架构
 软件架构说明
@@ -40,4 +47,7 @@ the first repository
 4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
 5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
 6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+<<<<<<< HEAD
 >>>>>>> 1f2121cff894d491394ae972af20249e61b1fb7f
+=======
+>>>>>>> 41d4612810bf27027b8649120650abe9493f98d8
